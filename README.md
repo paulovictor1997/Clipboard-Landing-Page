@@ -11,8 +11,8 @@
 
   ## Lins 
   - Front End Mentor profile : [https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
-  
-  - Live Site URL : [https://paulovictor1997.github.io/Single-Column/](https://paulovictor1997.github.io/Single-Column/)
 
-  ### Tela 
+  - Live Site URL : [https://paulovictor1997.github.io/Clipboard-Landing-Page/](https://paulovictor1997.github.io/Clipboard-Landing-Page/)
+
+  ### Preview
    ![images/desktop-design.jpg](images/preview.jpg)
